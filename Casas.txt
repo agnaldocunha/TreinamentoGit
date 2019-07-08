@@ -1,4 +1,9 @@
 Leao
 Sagitario
 Aries
+Gemeos
 Capricornio
+Touro
+Peixes
+Aquario
+Cancer
